@@ -1,4 +1,4 @@
-# Lorem Ipsum Coaching – One Page Template
+# Coaching – One Page Template
 
 A modern, responsive one-page website template for coaching institutes / tuition classes.  
 Built with plain HTML, CSS and Bootstrap, it’s easy to customize for any education or training brand.
